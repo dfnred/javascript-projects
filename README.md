@@ -6,3 +6,4 @@ https://roadmap.sh/javascript/projects
 
 /beginner/Greeting-Builder.js : https://roadmap.sh/projects/js-greeting-builder
 /beginner/Temperature-Converter.js : https://roadmap.sh/projects/js-temperature-converter
+/beginner/Number-Checker.js : https://roadmap.sh/projects/js-number-checker
